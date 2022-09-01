@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onyeocha Nwamaka Favour</h1>
 <h3 align="center">A prospective frontend developer and Cloud engineer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project/attachments/7418795?mode=media"/>
+<img align="right" alt="Coding" width="400" src="./IMAGES/GITHUB SIDE IMG"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FavourEva&label=Profile%20views&color=0e75b6&style=flat" alt="FavourEva" /> </p>
 
