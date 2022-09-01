@@ -2,9 +2,9 @@
 <h3 align="center">A prospective frontend developer and Cloud engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project/attachments/7418795?mode=media"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=favoueva&label=Profile%20views&color=0e75b6&style=flat" alt="favoueva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FavourEva&label=Profile%20views&color=0e75b6&style=flat" alt="FavourEva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favoueva" alt="favoueva" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FavourEva" alt="FavourEva" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/faycodes" target="blank"><img src="https://img.shields.io/twitter/follow/faycodes?logo=twitter&style=for-the-badge" alt="faycodes" /></a> </p>
 
@@ -29,8 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favoueva&show_icons=true&locale=en&layout=compact" alt="favoueva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FavourEva&show_icons=true&locale=en&layout=compact" alt="FavourEva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favoueva&show_icons=true&locale=en" alt="favoueva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FavourEva&show_icons=true&locale=en" alt="FavourEva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favoueva&" alt="favoueva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FavourEva&" alt="FavourEva" /></p>
