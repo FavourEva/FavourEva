@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="80%" src="https://image.freepik.com/free-vector/group-business-team-meeting-brainstorming-working-concept_115495-107.jpg">
-
 <h1 align="center">Hi there 👋, I am FavourEva</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 <br/>
@@ -16,8 +14,6 @@
 <br/>
 <br/>
 Currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
-
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 
 - 🔭 I’m currently working on Noted application
