@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="80%" src="https://codelabs.nyc3.digitaloceanspaces.com/contents/May2020/E4LCpVaMyHZ2W2CZq3RG8LxEm6I9Z5Sq.jpg">
+<img align="center" alt="Coding" margin="50%" width="80%" src="https://codelabs.nyc3.digitaloceanspaces.com/contents/May2020/E4LCpVaMyHZ2W2CZq3RG8LxEm6I9Z5Sq.jpg">
 
 <h1 align="center">Hi there 👋, I am FavourEva</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
