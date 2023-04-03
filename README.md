@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://image.freepik.com/free-vector/group-business-team-meeting-brainstorming-working-concept_115495-107.jpg">
+<img align="center" alt="Coding" width="80%" src="https://image.freepik.com/free-vector/group-business-team-meeting-brainstorming-working-concept_115495-107.jpg">
 
 <h1 align="center">Hi there 👋, I am FavourEva</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
