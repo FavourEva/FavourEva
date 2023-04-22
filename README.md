@@ -1,4 +1,4 @@
-<img src ="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img align= "center" alt="Coding src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Wbh2nLT6hxAlTnKc_ZSX4jor1NAkQaWvBA&usqp=CAU">
 <h1 align="center">Hi there 👋, I am FavourEva</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 <br/>
@@ -16,6 +16,7 @@
 <br/>
 Currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
 
+<img align= "right" alt="Coding" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
 
 - 🔭 I’m currently working on Noted application
 - 🌱 I’m currently learning Microservices with Kubernetes
