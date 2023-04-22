@@ -18,7 +18,7 @@
 <br/>
 Currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
 
-<img align= "right" alt="Coding" src="https://images.ctfassets.net/tldhjvq55hjd/Ue0l1GGiOR4Ws1a6B2Tv2/5c9cc91336614e3759647b979a9ad052/curity-blog-digitall-womens-day-v3_1.png?w=1000&h=500&q=50&fm=webp&bg=white">
+<img align="right" alt="Coding" height="auto" src="https://images.ctfassets.net/tldhjvq55hjd/Ue0l1GGiOR4Ws1a6B2Tv2/5c9cc91336614e3759647b979a9ad052/curity-blog-digitall-womens-day-v3_1.png?w=1000&h=500&q=50&fm=webp&bg=white">
 
 - 🔭 I’m currently working on Noted application
 - 🌱 I’m currently learning Microservices with Kubernetes
