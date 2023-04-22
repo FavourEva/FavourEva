@@ -16,7 +16,7 @@
 <br/>
 Currently a student of AltSchool Africa, Cloud DevOps Engineering. I have experience in Cloud Based tools (AWS, AZURE, and GCP), Configuration Management tools like Ansible and I am passionate about CI/CD Build tools like Jenkins, Containerization tools like Docker and Kubernetes, and Infrastructure as Code tools like Terraform and CloudFormation. I aspire to get to the pinnacle of Cloud Computing, and I am eager to contribute to the team's success through attentiveness and excellent organizational skills.
 
-<img align= "right" alt="Coding" src="[https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif](https://www.palo-it.com/hubfs/Infinito_DevOps_2-2.gif)">
+<img align= "right" alt="Coding" src="https://www.palo-it.com/hubfs/Infinito_DevOps_2-2.gif">
 
 - 🔭 I’m currently working on Noted application
 - 🌱 I’m currently learning Microservices with Kubernetes
