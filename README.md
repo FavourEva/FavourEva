@@ -1,4 +1,6 @@
-<img align= "center" alt="Coding" margin ="80%" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img align= "center" alt="Coding" margin ="100px" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+
+
 <h1 align="center">Hi there 👋, I am FavourEva</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 <br/>
